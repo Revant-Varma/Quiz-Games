@@ -1,0 +1,32 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+.buttonStyle{
+  background-color: #F7DC6F;
+  border-radius: 20px;
+}
+
+.change{
+  background-color: #00ff00;
+  border-radius: 20px;
+}
+
+.wrong{
+  background-color: #ff0000;
+  border-radius: 20px;
+}
+.ok{
+  background-color: #48ff00;
+  border-radius: 80px;
+}
+.textColor{
+  color: aliceblue;
+  align-items: center;
+  justify-content: center;
+}
+
+
